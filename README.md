@@ -5,4 +5,3 @@
 - 📫 How to reach me omercenkilgaz@gmail.com
 
 I live in Turkey and am interested in programming. I'm usually a web programmer. Empati.org I built it, and now I run it.
-<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}"/>
